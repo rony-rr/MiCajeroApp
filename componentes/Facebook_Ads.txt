@@ -1,0 +1,6 @@
+Genera un token para agregarlo a tu sistema de mediación
+EAAIguT1jW58BAKKYt6YADt2zc6ddWJM2YQeyNeLM76YGZCDES6G5KjcWPeoTZCqW7OXXL2ZAJzmUN7KT4A8FkX4ZCLGiJT1CrIQA4jxZAxsus7X5LEwjn6wu0PqmDcp6iuxoLubkX5XtznOb4z8Dbyw8adsSDukWUDJXHV29VxWgW7QPZCJArY
+
+banner type (actual)
+Copia el identificador de ubicación y agrégalo al código y a la mediación de la app en caso de que los uses.
+598929924381599_599026961038562

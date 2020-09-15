@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "MiCajero",
+    "slug": "MiCajero",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.6",
+    "orientation": "default",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ro.micajero",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "buildNumber": "6.0.0",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8287263841467710~2348239897"
+      },
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.ro.micajero",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 6,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8287263841467710~2348239897"
+      },
+      "permissions": [
+        "READ_PHONE_STATE",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png",
+      "config": {
+        "firebase": {
+          "appId": "1:163499539568:web:f0d4a35cdda3a00f8708b5",
+          "apiKey": "AIzaSyD6bpUHJkF86MyjsfLKKW4pe974ksz32aU",
+          "measurementId": "G-F1HN51R2CN",
+          "projectId": "micajero-26b23",
+          "storageBucket": "micajero-26b23.appspot.com",
+          "messagingSenderId": "163499539568",
+          "authDomain": "micajero-26b23.firebaseapp.com",
+          "databaseURL": "https://micajero-26b23.firebaseio.com"
+        }
+      }
+    },
+    "description": "Assistant Personal Cash"
+  }
+}

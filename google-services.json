@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163499539568",
+    "firebase_url": "https://micajero-26b23.firebaseio.com",
+    "project_id": "micajero-26b23",
+    "storage_bucket": "micajero-26b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163499539568:android:53fd466545d6a9d48708b5",
+        "android_client_info": {
+          "package_name": "com.ro.micajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163499539568-febkaatvn9pagl7dgm0k03bjrmdoflrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_rdFHMEgxUczesG3kpjaBDq7Cc2ebFlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163499539568-febkaatvn9pagl7dgm0k03bjrmdoflrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
