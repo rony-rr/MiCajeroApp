@@ -1,0 +1,15 @@
+Keystore credentials
+  Keystore password: 0f60b6b501b34c289582920f5df35eba
+  Key alias:         QHJvbnl0by9NaUNhamVybw==
+  Key password:      a4f987a1c645439c901c7ddd8113da92
+
+  Path to Keystore:  C:\xampp\htdocs\MiCajero\MiCajero.jks
+
+
+
+Keystore credentials
+  Keystore password: 0f60b6b501b34c289582920f5df35eba
+  Key alias:         QHJvbnl0by9NaUNhamVybw==
+  Key password:      a4f987a1c645439c901c7ddd8113da92
+
+  Path to Keystore:  C:\xampp\htdocs\MiCajero\MiCajero.jks
